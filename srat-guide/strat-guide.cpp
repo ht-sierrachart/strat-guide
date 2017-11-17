@@ -41,7 +41,7 @@ SCSFExport scsf_StratGuide(SCStudyInterfaceRef sc) {
 
 		sc.StudyDescription = "Basic entry/exit code used with spreadsheet systems";
 		sc.AutoLoop = 1; // automatic looping
-		sc.FreeDLL = 1; // 1 is for development
+		sc.FreeDLL = 0; // 1 is for development
 
 		kPeriod.Name = "K Period";
 		kPeriod.SetInt(10);
