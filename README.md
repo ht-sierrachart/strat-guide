@@ -55,7 +55,7 @@ StratAnalysis.ods
 ```
 ### Detailed video demo showing installation and settings
 
-[![Comming Soon](https://www.hahn-tech.com/wp-content/uploads/2017/09/logo-site-icon.jpg)](https://www.youtube.com/watch?)
+[![Comming Soon]()](https://www.youtube.com/watch?)
 
 ## Contributing
 
