@@ -9,6 +9,7 @@
 SCDLLName("Strategy Guide DLL")
 
 
+
 SCSFExport scsf_StratGuide(SCStudyInterfaceRef sc) {
 	SCInputRef kPeriod = sc.Input[0];
 	SCInputRef dPeriod = sc.Input[1];
