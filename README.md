@@ -1,6 +1,6 @@
 # Strategy Guide
 
-## Strategy indicator for TradeStation
+## Strategy indicator for Sierra Chart
 
 Very basic strategy that enters on swing high/low and exits on Stochastic FullD
 ### Chart Strategy
